@@ -262,24 +262,28 @@
          margin-bottom: 1rem;
      }
         
+     .logoFiles {
+         width: 30%;
+     }
+     
      .logos1 > a > img {
-         width: 1.5rem;
+         width: 1.2rem;
          margin-right: .2rem;
      }
      .logos2 > a > img {
-         width: 1.6rem;
+         width: 1.3rem;
          margin-right: .2rem;
      }
      .logos3 > a > img {
-         width: 2rem;
+         width: 1.7rem;
          margin-right: .2rem;
      }
 
      .verify > p {
-         font-size: .25rem;
+         font-size: .2rem;
      }
      .verify > a {
-         font-size: .25rem;  
+         font-size: .2rem;  
      }
     
      .main {
