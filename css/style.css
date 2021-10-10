@@ -250,13 +250,13 @@
       }
     
 }
- @media only screen and (max-width: 420px){
+ @media only screen and (max-width: 450px){
     .container {
         width: 300px;
         padding: 2rem 1rem 2rem 1.5rem;
         margin: 13rem auto;
         border-left: 10px solid rgba(0, 174, 255, 1);
-        background-position:  32% 90%;
+        background-position:  35% 98%;
      }
      .header {
          margin-bottom: 1rem;
@@ -264,21 +264,27 @@
         
      .logos1 > a > img {
          width: 1.5rem;
+         margin-right: .2rem;
      }
      .logos2 > a > img {
          width: 1.6rem;
+         margin-right: .2rem;
      }
      .logos3 > a > img {
          width: 2rem;
+         margin-right: .2rem;
      }
 
      .verify > p {
-         font-size: .3rem;
+         font-size: .25rem;
      }
      .verify > a {
-         font-size: .3rem;  
+         font-size: .25rem;  
      }
     
+     .main {
+         width: 85%;
+     }
      .main > h3 {
         font-size: .7rem;
         margin-bottom: .8rem;
