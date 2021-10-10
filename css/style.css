@@ -10,6 +10,9 @@
     max-width: 968px;
     margin: 3rem auto;
     border-left: 20px solid rgba(0, 174, 255, 1);
+    border-right: 1px solid rgba(128, 128, 128, 0.274);
+    border-top: 1px solid rgba(128, 128, 128, 0.274);
+    border-bottom: 1px solid rgba(128, 128, 128, 0.274);
     padding: 4rem 5rem 4rem 7rem;
     max-height: 100vh;
     display: flex;
