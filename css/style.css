@@ -124,3 +124,190 @@
     font-weight: 400;
     font-size: .7rem;
  }
+
+ @media only screen and (max-width: 768px){
+    .container {
+       width: 600px;
+       margin: 12rem auto;
+       border-left: 15px solid rgba(0, 174, 255, 1);
+       padding: 2rem 1rem 2rem 4rem;
+    }
+
+    .header {
+        margin-bottom: 2rem;
+    }
+    
+    
+    .logos1 > a > img, .logos2 > a > img, .logos3 > a > img {
+        margin-right: .5rem
+    }
+    
+    .logos1 > a > img {
+        width: 2.3rem;
+    }
+    .logos2 > a > img {
+        width: 2.8rem;
+    }
+    .logos3 > a > img {
+        width: 3.1rem;
+    }
+    
+    .verify > p {
+        font-size: .6rem;
+    }
+    .verify > a {
+        font-size: .6rem;  
+    }
+
+    .main > h3 {
+       font-size: 1.3rem;
+    }
+    
+    .main > h1 {
+        font-size: 2.2rem;
+     }
+    
+     .main > p{
+        font-size: .6rem;
+     }
+     
+     .main > h4 {
+         font-size: .7rem;
+     }
+    
+     .signage {
+         margin-top: 1.5rem;
+     }
+    
+     .signage > img {
+         height: 2.5rem;
+     }
+    
+     .signage > h4 {
+        font-size: .8rem;
+     }
+    
+     .signage > p {
+        font-size: .5rem;
+     }
+ }
+
+ @media only screen and (max-width: 576px){
+    .container {
+        width: 400px;
+        margin: 10rem auto;
+        padding: 2rem 1rem 2rem 2.5rem;
+
+     }
+        
+     .logos1 > a > img {
+         width: 2rem;
+     }
+     .logos2 > a > img {
+         width: 2.2rem;
+     }
+     .logos3 > a > img {
+         width: 2.7rem;
+     }
+
+     .verify > p {
+         font-size: .4rem;
+     }
+     .verify > a {
+         font-size: .4rem;  
+     }
+ 
+     .main > h3 {
+        font-size: 1rem;
+        margin-bottom: 1rem;
+     }
+     
+     .main > h1 {
+         font-size: 1.6rem;
+         margin-bottom: .7rem;
+      }
+     
+      .main > p{
+         font-size: .4rem;
+      }
+      
+      .main > h4 {
+          font-size: .5rem;
+      }
+     
+      .signage {
+          margin-top: 1rem;
+      }
+     
+      .signage > img {
+          height: 2rem;
+      }
+     
+      .signage > h4 {
+         font-size: .6rem;
+      }
+    
+}
+ @media only screen and (max-width: 420px){
+    .container {
+        width: 300px;
+        padding: 2rem 1rem 2rem 1.5rem;
+        margin: 13rem auto;
+        border-left: 10px solid rgba(0, 174, 255, 1);
+     }
+     .header {
+         margin-bottom: 1rem;
+     }
+        
+     .logos1 > a > img {
+         width: 1.5rem;
+     }
+     .logos2 > a > img {
+         width: 1.6rem;
+     }
+     .logos3 > a > img {
+         width: 2rem;
+     }
+
+     .verify > p {
+         font-size: .3rem;
+     }
+     .verify > a {
+         font-size: .3rem;  
+     }
+    
+     .main > h3 {
+        font-size: .7rem;
+        margin-bottom: .8rem;
+     }
+     
+     .main > h1 {
+         font-size: 1.2rem;
+         margin-bottom: .5rem;
+      }
+     
+      .main > p{
+         font-size: .3rem;
+      }
+      
+      .main > h4 {
+          font-size: .4rem;
+          margin-top: .7rem;
+      }
+     
+      .signage {
+          margin-top: .8rem;
+      }
+     
+      .signage > img {
+          height: 2rem;
+      }
+     
+      .signage > h4 {
+         font-size: .4rem;
+      }
+      .signage > p {
+          font-size: .3rem;
+      }
+    
+}
