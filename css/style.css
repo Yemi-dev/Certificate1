@@ -250,7 +250,7 @@
       }
     
 }
- @media only screen and (max-width: 450px){
+ @media only screen and (max-width: 470px){
     .container {
         width: 300px;
         padding: 2rem 1rem 2rem 1.5rem;
@@ -265,7 +265,7 @@
      .logoFiles {
          width: 30%;
      }
-     
+
      .logos1 > a > img {
          width: 1.2rem;
          margin-right: .2rem;
