@@ -22,6 +22,7 @@
     background-image: url('../images/Background.png');
     background-position: 65% -105%;
 }
+
 .header {
     display: flex;
     justify-content: space-between; 
@@ -127,7 +128,7 @@
     font-size: .7rem;
  }
 
- @media only screen and (max-width: 768px){
+ @media (max-width: 768px){
     .container {
        width: 600px;
        margin: 12rem auto;
@@ -195,7 +196,7 @@
      }
  }
 
- @media only screen and (max-width: 576px){
+ @media (max-width: 576px){
     .container {
         width: 400px;
         margin: 10rem auto;
@@ -251,7 +252,7 @@
       }
     
 }
- @media only screen and (max-width: 470px){
+ @media (max-width: 470px){
     .container {
         width: 350px;
         padding: 2rem 1rem 2rem 1.5rem;
